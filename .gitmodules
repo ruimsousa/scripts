@@ -1,0 +1,3 @@
+[submodule "install-java"]
+	path = install-java
+	url = https://github.com/chrishantha/install-java.git
